@@ -49,5 +49,6 @@ A figure containing a grayscale original image and eight corresponding bit-plane
 - `README.md` — project description and run instructions
 - `.ipynb` — notebook containing the bit-plane slicing implementation
 
-## Note
-The notebook's first plotting cell uses the title string `"bit plane {i}"` without an f-string, so its displayed title will not interpolate the bit-plane number. The second implementation labels each plane with its number.
+## output
+<img width="1189" height="887" alt="image" src="https://github.com/user-attachments/assets/27eae084-41eb-4d04-b9ff-8819dc200f9b" />
+
